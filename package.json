@@ -1,0 +1,14 @@
+{
+  "name": "@saralaffin/resume",
+  "version": "1.0.0",
+  "description": "Created an npm package to print out my resume to a console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Laffin",
+  "license": "ISC",
+  "bin": {
+    "print-saras-resume": "./index.js"
+  }
+}

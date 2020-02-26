@@ -1,0 +1,16 @@
+{
+  "name": "Sara Laffin",
+  "github": "https://github.com/saralaffin",
+  "linkedin": "https://www.linkedin.com/in/sara-laffin-7b6b09b1",
+  "email": "sarala@umich.edu",
+  "skills": ["HTML", "CSS", "Javascript", "React", "Node", "Github"],
+  "almostSkills": [
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Heroku"
+  ],
+  "otherSkills": ["Origami", "Crochet", "Chainsaw", "Felling trees"]
+}
